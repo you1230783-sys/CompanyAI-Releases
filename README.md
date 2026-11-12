@@ -8,6 +8,10 @@ CompanyAI 的公開安裝包下載區，支援 Windows 11 x64。
 
 每版 Release 提供 `LM_AI_Setup.exe` 與對應的 `update-manifest.json`，檔案大小與 SHA-256 列於該版說明。
 
+## 0.9.41 更新內容
+
+- 安全性更新。
+
 ## 0.9.40 更新內容
 
 - 新增標準卡片、極簡卡片及氣泡通知，可從設定立即測試。
